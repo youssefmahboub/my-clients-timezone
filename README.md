@@ -12,7 +12,7 @@
 
 ## Installation
 
-1. download file "build" and compress it as a ZIP file.
+1. clone of download files and compress the file "build" as a ZIP file.
 2. Open the Chrome browser and go to `chrome://extensions`.
 3. Enable the "Developer mode" toggle switch.
 4. Click on "Load unpacked" and select the project folder.
