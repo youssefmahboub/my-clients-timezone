@@ -27,4 +27,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Developed by [Youssef Mahboub](https://github.com/youssefmahboub)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6MEFGD)
