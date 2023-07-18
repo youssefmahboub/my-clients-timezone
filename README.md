@@ -1,10 +1,7 @@
 # "My Clients TimeZone" Chrome Extension
 
-![My Clients TimeZone](extension-screenshot.png)
-
-## Description
-
 "My Clients TimeZone" Extension is a handy tool designed to help remote freelancers and teams easily calculate the time difference between different time zones. It allows you to keep track of your team members' local time and ensure effective collaboration across different regions.
+![My Clients TimeZone](extension-screenshot.png)
 
 ## Features
 
